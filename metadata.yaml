@@ -1,0 +1,38 @@
+_repo: HaschischErz-hlungen_37763
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kubin, Alfred
+    birthdate: 1877
+    deathdate: 1959
+    gutenberg_agent_id: '39044'
+    url: http://www.gutenberg.org/2009/agents/39044
+covers:
+- cover_type: archival
+  image_path: 37763-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Schmitz, Oscar A. H.
+    birthdate: 1873
+    deathdate: 1931
+    gutenberg_agent_id: '39043'
+    url: http://www.gutenberg.org/2009/agents/39043
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37763'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, German'
+- !lcc 'PT'
+- !lcsh 'Hashish -- Fiction'
+tableOfContents: 'Haschisch : Der Haschischklub. Die Geliebte des Teufels. Eine Nacht
+  des achtzehnten Jahrhunderts. Karneval. Die Sünde wider den heiligen Geist. Die
+  Botschaft -- Der Schmugglersteig.'
+title: 'Haschisch: Erzählungen'
+url: http://www.gutenberg.org/ebooks/37763
